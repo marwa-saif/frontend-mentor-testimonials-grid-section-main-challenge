@@ -132,6 +132,7 @@ img {
     line-height: 1.1;
     color: var(--main-color);
     z-index: 2;
+    font-weight: 600;
 }
 
 .quote {
