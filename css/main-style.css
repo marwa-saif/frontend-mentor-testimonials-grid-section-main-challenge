@@ -47,8 +47,8 @@ html {
 
 @media (min-width: 49rem) {
     .container {
-        margin: 8em auto;
-        padding: 8em 12em;
+        margin: 5em auto 0;
+        padding: 5em 12em 0;
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
 
