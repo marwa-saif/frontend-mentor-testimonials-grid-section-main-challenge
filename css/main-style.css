@@ -164,7 +164,7 @@ img {
 }
 
 .black {
-    --card-color: var(--black-color);
+    --card-color: var(--dark-blue-color);
     --border-color: var(--purple-color-500);
     --main-color: var(--grey-color-200);
     --secondery-color: var(--grey-color-200);
