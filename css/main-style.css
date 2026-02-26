@@ -48,7 +48,7 @@ html {
 @media (min-width: 49rem) {
     .container {
         margin: 9em auto 0;
-        padding: 5em 12em 0;
+        padding: 7em 12em 0;
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
 
@@ -178,7 +178,7 @@ img {
     .purple::after {
         content: url(../images/bg-pattern-quotation.svg);
         position: absolute;
-        right: 5.2em;
+        right: 5em;
         z-index: 1;
     }
 }
