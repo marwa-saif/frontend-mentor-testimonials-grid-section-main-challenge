@@ -76,10 +76,10 @@ html {
 
 
 .card {
-    padding: 2.5em 2.9em;
+    padding: 2.4em 2.9em;
     background-color: var(--card-color);
     display: grid;
-    gap: 1.3em;
+    gap: 1.4em;
     box-shadow: 8px 16px 40px var(--grey-color-300);
     border-radius: 8px;
     -webkit-border-radius: 8px;
